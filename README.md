@@ -162,7 +162,7 @@ The following screenshots demonstrate the Skill Bridge application interface and
 
 ### Application Screenshots
 
-![Skill Bridge Screenshot](<outputs/Screenshot From 2026-10-23 22-09-22.png>)
+![Skill Bridge Screenshot](<outputs/Screenshot From 2026-10-23 22-09-07-1.png>)
 
 <!-- Additional screenshots are automatically appended by the setup command below. -->
 
